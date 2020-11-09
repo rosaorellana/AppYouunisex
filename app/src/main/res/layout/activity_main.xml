@@ -18,7 +18,7 @@ tools:context=".Main">
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Bienvendido al Login"
+        android:text="Bienvenido Al Login"
         android:textColor="#75C0AF"
         android:textStyle="bold"
         android:layout_gravity="center"
