@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">App Youunisex</string>
+    <string-array name="rif_ident">
+        <item>E</item>
+        <item>G</item>
+        <item>J</item>
+        <item>V</item>
+    </string-array>
+    <string name="title_activity_menu">Menu</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="inventario">Inventario Productos</string>
+    <string name="sexo">Sexo</string>
+    <string name="clientes">Clientes</string>
+    <string name="lista_de_personas">Lista de Personas</string>
+    <string name="registro_inventario">Registro Inventario</string>
+    <string name="id">ID</string>
+    <string name="nombre_producto">Nombre Producto</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="ventas">Ventas</string>
+    <string name="busqueda_de_material">Busqueda de Material</string>
+    <string name="buscar">Buscar</string>
+    <string name="tipo">Tipo</string>
+    <string name="sistema_de_bodega">Sistema de Inventario</string>
+    <string name="la_bodeguita">"Youunisex"</string>
+    <string name="vendedores">Vendedores</string>
+    <string name="usuarios">Usuarios</string>
+
+</resources>
